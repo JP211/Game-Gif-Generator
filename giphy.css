@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body, {
+    font-size: 18px;
+    line-height: 34px;
+    font-family: "Arial", "Helvetica", Helvetica, sans-serif;
+    color: #777;
+}
+
+#title {
+    font-size: 20px;
+    line-height: 34px;
+    font-family: "Arial", "Helvetica", Helvetica, sans-serif;
+    color: #750258;
+    font-weight: 20px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+#gifButtonsView {
+    font-size: 20px;
+    line-height: 34px;
+    font-family: "Arial", "Helvetica", Helvetica, sans-serif;
+    color: #750258;
+    font-weight: 20px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
